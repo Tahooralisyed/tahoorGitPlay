@@ -8,3 +8,6 @@ some new content
 
 
 From brANCH B2
+
+
+from branch b3| to check how to push a locally created branch to remote origin
